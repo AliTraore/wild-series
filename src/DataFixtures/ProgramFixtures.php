@@ -16,21 +16,33 @@ class ProgramFixtures extends Fixture implements DependentFixtureInterface
             'category' => 'category_Action',
         ],
         [
-            'title' => 'Titre 2',
+            'title' => 'Sons Of Anarchy',
+            'synopsis' => 'Suivez le quotidien d\'un gang de motard.',
+            'category' => 'category_Action',
+        ],
+        [
+            'title' => 'Breaking Bad',
+            'synopsis' => 'Suivez l\'ascension d\'un traficant de metamphetamines',
+            'category' => 'category_Action',
+        ],
+        [
+            'title' => 'Indiana Jones',
             'synopsis' => 'some texte',
             'category' => 'category_Aventure',
         ],
         [
-            'title' => 'Titre 3',
-            'synopsis' => 'some texte',
+            'title' => 'One Piece',
+            'synopsis' => 'Suivez Luffy et ses compagnons à la recherche du One Piece',
             'category' => 'category_Animation',
-        ],[
-            'title' => 'Titre 4',
-            'synopsis' => 'some texte',
+        ],
+        [
+            'title' => 'Harry Potter',
+            'synopsis' => 'Suivez Harry dans son apprentissage à l\'ecole des sorciers',
             'category' => 'category_Fantastique',
-        ],[
-            'title' => 'Titre 5',
-            'synopsis' => 'some texte',
+        ],
+        [
+            'title' => 'Paranormal Activity',
+            'synopsis' => 'Un jeune couple suspecte leur maison d’être hantée par un esprit démoniaque. ',
             'category' => 'category_Horreur',
         ],
      ];
